@@ -1,3 +1,3 @@
-print("hewow world')
+print("you got a point here.')
       
-print("here's another print statement")
+print("this is better than your cameron")
